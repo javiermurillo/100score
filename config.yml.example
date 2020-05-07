@@ -1,0 +1,4 @@
+development:
+  password: PASSWORD_API
+  theme_id: "THEME_ID"
+  store: STORE_NAME.myshopify.com
